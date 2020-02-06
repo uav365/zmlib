@@ -6,5 +6,5 @@ void app(void)
 
 int main
 {
-      return;
+      return;//加入中文
 }
