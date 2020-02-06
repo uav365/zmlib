@@ -1,0 +1,5 @@
+//mian
+int main
+{
+	;
+}
